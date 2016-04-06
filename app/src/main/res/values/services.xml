@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="url_obtener_db">http://api.cinepolis.com.mx/sqlite.aspx?idCiudad=%s</string>
+
+</resources>

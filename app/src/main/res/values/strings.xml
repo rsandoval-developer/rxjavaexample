@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RxJava</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="descargar_cartelera">Descargar Cartelera</string>
+    <string name="descargando">Descargando</string>
+</resources>
